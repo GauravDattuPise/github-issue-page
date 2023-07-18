@@ -1,0 +1,30 @@
+.pagination-container {
+    margin-left: 500px;
+}
+
+
+#pagination {
+    color: white;
+    background-color: blue;
+    width: 40px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+#pagination:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+
+.issue{
+    background-color: rgba(225, 219, 219, 0.265);
+    border-Radius : 50px;
+    padding : 5px;
+    margin-Top : 30px;
+    margin-Left : 100px;
+    margin-Right : 100px;
+    align-Items : center;
+    text-Align : center;
+}
